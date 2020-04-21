@@ -1,7 +1,7 @@
 {
-  "name": "postgraphile_extensions",
+  "name": "postgraphile_utility_functions",
   "version": "1.0.0",
-  "description": "Sqitch-based extensions for postgraphile project",
+  "description": "Sqitch-based utility_functions for postgraphile project",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "gitolite:a/jmarca/postgraphile_related/postgraphile_extensions"
+    "url": "gitolite:a/jmarca/postgraphile_related/postgraphile_utility_functions"
   },
   "author": "James E. Marca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmarca/postgraphile_extensions/issues"
+    "url": "https://github.com/jmarca/postgraphile_utility_functions/issues"
   },
-  "homepage": "https://github.com/jmarca/postgraphile_extensions#readme"
+  "homepage": "https://github.com/jmarca/postgraphile_utility_functions#readme"
 }
