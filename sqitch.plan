@@ -5,3 +5,4 @@ trigger_add_job [postgraphile_schemas:schemas] 2020-04-21T15:19:10Z James E. Mar
 trigger_add_audit_job [postgraphile_schemas:schemas] 2020-04-21T15:21:44Z James E. Marca <james@activimetrics.com> # trigger to notify user of auditable action
 trigger_timestamps [postgraphile_schemas:schemas] 2020-04-21T15:25:25Z James E. Marca <james@activimetrics.com> # trigger to verify updated_at, created_at timestamps
 check_passwords [postgraphile_schemas:schemas] 2020-04-21T15:27:34Z James E. Marca <james@activimetrics.com> # function to check for weak passwords
+trigger_graphql_subscription [postgraphile_schemas:schemas] 2020-04-25T15:50:57Z James E. Marca <james@activimetrics.com> # trigger function to generate graphql subscriptions
